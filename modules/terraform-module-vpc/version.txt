@@ -1,0 +1,1 @@
+0.1.0 - 17/06/2019 - Release information: Module to create generic VPC with good AWS pratics - Rafael Oliveira - rafavinicius67@gmail.com
